@@ -1,1 +1,0 @@
-print('Mam na imię Przemek')
